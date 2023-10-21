@@ -1,0 +1,12 @@
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\bin\Debug\net6.0\Contacts.Data.deps.json
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\bin\Debug\net6.0\Contacts.Data.dll
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\bin\Debug\net6.0\Contacts.Data.pdb
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.AssemblyReference.cache
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfoInputs.cache
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfo.cs
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.dll
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\refint\Contacts.Data.dll
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.pdb
+D:\SoftUni\Containers and Clouds\Exam preparation 2\Contacts.Data\obj\Debug\net6.0\ref\Contacts.Data.dll
